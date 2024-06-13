@@ -40,7 +40,7 @@
     "name": "Food Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 200,
-    "category": "Free",
+    "category": "Paid",
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
   },
 
@@ -49,7 +49,7 @@
     "name": "Story Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 0,
-    "category": "Free",
+    "category": "Story",
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
   },
 
@@ -67,11 +67,11 @@
     "name": "Story Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 0,
-    "category": "Free",
+    "category": "Paid",
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Story Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 0,
@@ -79,15 +79,15 @@
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
   },
   {
-    "id": 8,
-    "name": "Story Book",
+    "id": 10,
+    "name": "Food Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 0,
     "category": "Free",
     "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
   },
   {
-    "id": 8,
+    "id": 11,
     "name": "Story Book",
     "title": "lorem, ipsum dolor sit amet consectetur adipising",
     "price": 0,
