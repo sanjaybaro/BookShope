@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 2,
+    "name": "Sports Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 50,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 3,
+    "name": "Fiction Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 20,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 4,
+    "name": "Music Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 110,
+    "category": "Song",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 200,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 6,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 7,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  },
+  {
+    "id": 8,
+    "name": "Story Book",
+    "title": "lorem, ipsum dolor sit amet consectetur adipising",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1718211728~exp=1718215328~hmac=d90d868a80e04d138fbd8294bd0abc238d6daaed8e82da4ad21eae724e0c6241&w=740"
+  }
+]
