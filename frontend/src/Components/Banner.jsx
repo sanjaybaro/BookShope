@@ -16,7 +16,7 @@ function Banner() {
               Obcaecati officia non provident ea dolores quidem nihil,
               consequatur ipsum illum quam sed debitis similique earum nobis.
             </p>
-            <label className="input input-bordered flex items-center gap-2">
+            <label className="input input-bordered flex items-center gap-2 dark:bg-slate-100 ">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 16 16"
@@ -29,7 +29,7 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary">Secondary</button>
+          <button className="btn mt-6 btn-secondary dark:text-black">Secondary</button>
         </div>
         <div className="order-1 w-full md:w-1/2">
           <img className="w-92 h-92" src={banner} alt="image" />
