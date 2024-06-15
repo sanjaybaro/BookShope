@@ -1,5 +1,5 @@
 import React from "react";
-import banner from "../assets/BannerPic.png";
+import banner from "../../Images/BannerPic.png";
 
 function Banner() {
   return (
@@ -29,7 +29,9 @@ function Banner() {
               <input type="text" className="grow" placeholder="Email" />
             </label>
           </div>
-          <button className="btn mt-6 btn-secondary dark:text-black">Secondary</button>
+          <button className="btn mt-6 btn-secondary dark:text-black">
+            Secondary
+          </button>
         </div>
         <div className="order-1 w-full md:w-1/2">
           <img className="w-92 h-92" src={banner} alt="image" />
