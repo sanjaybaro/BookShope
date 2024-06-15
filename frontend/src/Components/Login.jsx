@@ -8,9 +8,13 @@ function Login() {
         <div className="modal-box dark:bg-slate-100 dark:text-black">
           <form method="dialog">
             {/* if there is a button in form, it will close the modal */}
-            <button className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
+            <Link
+              to="/"
+              className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2"
+              onClick={() => document.getElementById("my_modal_3").close()}
+            >
               ✕
-            </button>
+            </Link>
           </form>
           <h3 className="font-bold text-lg">Login</h3>
           {/* Email */}
