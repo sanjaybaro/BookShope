@@ -5,6 +5,7 @@ import dotenv from "dotenv";
 import cors from "cors";
 import { connectionURI } from "./config/db.js";
 import bookRoute from "./routes/book.route.js";
+import userRoute from "./routes/user.route.js";
 
 const app = express();
 app.use(express.json());
@@ -20,6 +21,7 @@ app.get("/", (req, res) => {
 
 //defining routes
 app.use("/book", bookRoute);
+app.use("/user", userRoute);
 
 app.listen(PORT, async () => {
   try {
