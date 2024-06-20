@@ -1,10 +1,10 @@
-import React from "react";
 import signupHero from "../../Images/singuphero.jpg";
-import { Link, useLocation, useNavigate } from "react-router-dom";
+import { Link, Navigate, useLocation, useNavigate } from "react-router-dom";
 import Login from "./Login";
 import { useForm } from "react-hook-form";
 import axios from "axios";
 import { toast } from "react-hot-toast";
+import Home from "../Home/Home";
 
 function Signup() {
   const location = useLocation();
@@ -119,18 +119,24 @@ function Signup() {
                 <button className="bg-pink-500 text-white rounded-md px-3 py-1 hover:bg-pink-700 duration-200">
                   Signup
                 </button>
-                <p>
-                  Have an account?{"  "}
-                  <button
+            
+                <i>
+                  Have an account?
+                  <br />{" "}
+                  <span>
+                    <i>login from homepage</i>
+                  </span>
+                  {"  "}
+                  <Link
+                    to="/"
                     className="underline text-indigo-400 cursor-pointer"
                     onClick={() =>
                       document.getElementById("my_modal_3").showModal()
                     }
                   >
                     Login
-                  </button>
-                  <Login />
-                </p>
+                  </Link>
+                </i>
               </div>
             </form>
           </div>
