@@ -1,9 +1,10 @@
-import React from "react";
+import React, { useContext } from "react";
 import { useEffect } from "react";
 import { useState } from "react";
 import Login from "./Login";
 
 const Navbar = () => {
+
   //theme change by local storage
   const [theme, setTheme] = useState(
     localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
