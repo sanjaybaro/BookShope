@@ -7,6 +7,7 @@ function Authprovider({ children }) {
   const [authUser, setAuthUser] = useState(
     initialAuthUser ? JSON.parse(initialAuthUser) : undefined
   );
+  
   return (
     <AuthContext.Provider value={{ authUser, setAuthUser }}>
       {children}
