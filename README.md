@@ -97,4 +97,14 @@ bookStore is a Responsive Website for all device screen sizes
 |:---:|:-----------:|:---------:|:---------:|:----------:|:-----:| 
 | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (1)](https://github.com/sanjaybaro/BookShope/assets/123923491/c2801f5f-713c-4118-afe5-af1245210969) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (2)](https://github.com/sanjaybaro/BookShope/assets/123923491/d78436b0-6783-4109-abfa-82e565950140) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (6)](https://github.com/sanjaybaro/BookShope/assets/123923491/cfb4f19e-54e0-455e-80e1-86544110af11) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (4)](https://github.com/sanjaybaro/BookShope/assets/123923491/3f80ac8f-1703-4a8f-a49f-63ed86335d01) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (5)](https://github.com/sanjaybaro/BookShope/assets/123923491/a6b4cd5b-9349-4dc7-ad13-33f440be0c28) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (3)](https://github.com/sanjaybaro/BookShope/assets/123923491/ca206ef8-65dd-42c2-a306-73d8103e7a55)
 
+|Free Course | Footer |Contact Page | Sign Up | Login | Course Page |
+|:---:|:-----------:|:---------:|:---------:|:----------:|:-----:| 
+| ![Galaxy-Tab-S7-book-shope-tau vercel app (1)](https://github.com/sanjaybaro/BookShope/assets/123923491/c2ad69e0-ee9c-40aa-9bcc-303c91735598) | ![Galaxy-Tab-S7-book-shope-tau vercel app (2)](https://github.com/sanjaybaro/BookShope/assets/123923491/63409ff8-cf9b-4648-af6e-b431eee1121d) | ![Galaxy-Tab-S7-book-shope-tau vercel app (3)](https://github.com/sanjaybaro/BookShope/assets/123923491/afc295b5-40cf-4df1-abd7-b2feaa761c70) | ![Galaxy-Tab-S7-book-shope-tau vercel app (4)](https://github.com/sanjaybaro/BookShope/assets/123923491/0280c9a6-8fad-4ed0-94ec-ed963d993375) | ![Galaxy-Tab-S7-book-shope-tau vercel app (5)](https://github.com/sanjaybaro/BookShope/assets/123923491/71b77f91-489a-436e-850b-aecadcdb3d2e) | ![Galaxy-Tab-S7-book-shope-tau vercel app (6)](https://github.com/sanjaybaro/BookShope/assets/123923491/f4f7e32a-6258-4b9a-a7b2-dd50b7c15cfa)
+
+### 🤝 Connect with me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sanjaybaro.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-baro/)
+
+
+
 
