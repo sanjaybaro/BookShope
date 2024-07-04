@@ -75,4 +75,7 @@ bookStore is a Responsive Website for all device screen sizes
 
 #### Frontend Side Views
 **HomePage**
-![Macbook-Air-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08862f2d-037e-432f-ab1a-fb07c277b84e)
+| Light Mode | Dark Mode |
+|:----------:|:---------:|
+|![Macbook-Air-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08862f2d-037e-432f-ab1a-fb07c277b84e) | ![Macbook-Air-book-shope-tau vercel app (1)](https://github.com/sanjaybaro/BookShope/assets/123923491/acc2391a-0976-4369-a627-8ec811b8e148)
+
