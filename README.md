@@ -1,4 +1,4 @@
 # bookStore - a book library
 <div align="center"> 
-  <img src="./frontend/public/bookStore.png" alt="bookStore Logo">
+   <img src="./frontend/src/assets/bookStore.png" alt="bookStore Logo">
 </div>
