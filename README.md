@@ -50,3 +50,17 @@ Welcome to our BookStore website, featuring a wide variety of books and user aut
 | **Course Page**                     | User can only availabe to access the course book list page if login / register in the website.                          |
 | **Contact Page**                  | User can contact by filling the contact form.|
 | **Logout Function**                | Logout functionality also available for each user.|
+
+## Run Locally (getting started)
+
+### For Frontend
+1. Clone the repository: `git clone https://github.com/sanjaybaro/BookShope`
+2. Go to the project directory: `cd frontend`
+3. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
+
+### For Backend
+1. Clone the repository: `git clone https://github.com/sanjaybaro/BookShope`
+2. Go to the project directory: `cd backend`
+3. Install dependencies: `npm install`
+3. Start the backend server: `npm run start`
