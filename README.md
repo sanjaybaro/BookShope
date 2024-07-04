@@ -92,3 +92,9 @@ bookStore is a Responsive Website for all device screen sizes
 | Mobile View | Tab View |
 |:----------:|:---------:|
 | ![iPhone-13-PRO-MAX-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08154bfa-82ac-4aae-9bfe-5fd812768a8c) | ![Galaxy-Tab-S7-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/2425a9bd-a984-4d90-9fb4-fafafcd415e7)
+
+|Free Course | Footer |Contact Page | Sign Up | Login | Course Page |
+|:---:|:-----------:|:---------:|:---------:|:----------:|:-----:| 
+| ![iPhone-13-PRO-MAX-book-shope-tau vercel app (1)](https://github.com/sanjaybaro/BookShope/assets/123923491/c2801f5f-713c-4118-afe5-af1245210969) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (2)](https://github.com/sanjaybaro/BookShope/assets/123923491/d78436b0-6783-4109-abfa-82e565950140) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (6)](https://github.com/sanjaybaro/BookShope/assets/123923491/cfb4f19e-54e0-455e-80e1-86544110af11) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (4)](https://github.com/sanjaybaro/BookShope/assets/123923491/3f80ac8f-1703-4a8f-a49f-63ed86335d01) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (5)](https://github.com/sanjaybaro/BookShope/assets/123923491/a6b4cd5b-9349-4dc7-ad13-33f440be0c28) | ![iPhone-13-PRO-MAX-book-shope-tau vercel app (3)](https://github.com/sanjaybaro/BookShope/assets/123923491/ca206ef8-65dd-42c2-a306-73d8103e7a55)
+
+
