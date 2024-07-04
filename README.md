@@ -78,8 +78,9 @@ bookStore is a Responsive Website for all device screen sizes
 | Light Mode | Dark Mode |
 |:----------:|:---------:|
 |![Macbook-Air-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08862f2d-037e-432f-ab1a-fb07c277b84e) | ![Macbook-Air-book-shope-tau vercel app (1)](https://github.com/sanjaybaro/BookShope/assets/123923491/acc2391a-0976-4369-a627-8ec811b8e148)
-| Free Course | Footer | Contact |
-|:-----------:|:------:|:-------:|
+
+| Free Course | Footer | Contact Page |
+|:-----------:|:------:|:------------:|
 | ![Macbook-Air-book-shope-tau vercel app (2)](https://github.com/sanjaybaro/BookShope/assets/123923491/f0381edc-00b0-4833-9448-65877618f8ba) | ![Macbook-Air-book-shope-tau vercel app (4)](https://github.com/sanjaybaro/BookShope/assets/123923491/0633a164-c175-4bf2-84d7-ea2ef161e467) | ![Macbook-Air-book-shope-tau vercel app (7)](https://github.com/sanjaybaro/BookShope/assets/123923491/65b1f899-0483-4c91-8d13-d85186f18987)
 
 | Sign Up | Login | Course Page |
