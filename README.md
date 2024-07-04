@@ -64,3 +64,15 @@ Welcome to our BookStore website, featuring a wide variety of books and user aut
 2. Go to the project directory: `cd backend`
 3. Install dependencies: `npm install`
 3. Start the backend server: `npm run start`
+
+## Contact
+For any inquiries or support, you can reach me at [sanjaybaro2017@gmail.com](sanjaybaro2017@gmail.com).
+
+## UI Screenshots
+bookStore is a Responsive Website for all device screen sizes
+
+### Laptop / Macbook UI
+
+#### Frontend Side Views
+**HomePage**
+![Macbook-Air-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08862f2d-037e-432f-ab1a-fb07c277b84e)
