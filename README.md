@@ -39,3 +39,14 @@ Welcome to our BookStore website, featuring a wide variety of books and user aut
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
    <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </div>
+
+## Features
+
+|    Features                        | Description                                                                                             |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------|
+| **User Registration and Login**    | Users can easily register and log in to see the book list.                                                |
+| **Explore Menu**                   | User can explore the wide range of books.       |                |
+| **Theme Change**                      | Users can change the themes light and dark manage by context api.                          |
+| **Course Page**                     | User can only availabe to access the course book list page if login / register in the website.                          |
+| **Contact Page**                  | User can contact by filling the contact form.|
+| **Logout Function**                | Logout functionality also available for each user.|
