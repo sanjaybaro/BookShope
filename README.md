@@ -87,4 +87,8 @@ bookStore is a Responsive Website for all device screen sizes
 |:-----------:|:------:|:-------:|
 | ![Macbook-Air-book-shope-tau vercel app (6)](https://github.com/sanjaybaro/BookShope/assets/123923491/f32ed34d-36a5-448a-b184-386473706538) | ![Macbook-Air-book-shope-tau vercel app (8)](https://github.com/sanjaybaro/BookShope/assets/123923491/2f91f1c4-a971-4655-b713-c470b14118c7) | ![Macbook-Air-book-shope-tau vercel app (10)](https://github.com/sanjaybaro/BookShope/assets/123923491/a3592c33-dbfd-4951-8be7-b42427dd3de6)
 
-
+### Mobile / Android / ios UI / Tablet views
+**HomePage**
+| Mobile View | Tab View |
+|:----------:|:---------:|
+| ![iPhone-13-PRO-MAX-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/08154bfa-82ac-4aae-9bfe-5fd812768a8c) | ![Galaxy-Tab-S7-book-shope-tau vercel app](https://github.com/sanjaybaro/BookShope/assets/123923491/2425a9bd-a984-4d90-9fb4-fafafcd415e7)
